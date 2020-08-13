@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Soofiyan-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/craigysoofiyan)](https://twitter.com/craigysoofiyan)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
-Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems
+Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
 
 ### Some stats about Soofiyan
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true)
