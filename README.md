@@ -5,9 +5,9 @@
 ### About me :eyes:
 
 - :dart: Robotics Software developer **|** Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
-- :heart: Open source contributor at **[GSSOC'20](https://www.gssoc.tech/)**
-- :writing_hand: Writing blogs on **[Medium](https://medium.com/@hritik.jaiswal)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)**
-- :e-mail: Ask me about anything ; **[hritik.jaiswal@somaiya.edu](hritik.jaiswal@somaiya.edu)**
+- :heart: 
+- :writing_hand: 
+- :e-mail: Ask me about anything ; **[soofiyan.a@somaiya.edu](soofiyan.a@somaiya.edu)**
 
 
 ### Languages and Tools :computer:
