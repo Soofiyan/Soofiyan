@@ -36,11 +36,11 @@
 ## Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
 
 ### Some stats about ME!
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&theme=tokyonight" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&theme=tokyonight" />
 
 ### Reach out to me 👓
 
-<a href="https://twitter.com/craigysoofiyan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/soofiyan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soofiyan.a@somaiya.edu"><img src="https://www.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/soofiyan-atar-93227a131/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
+<a href="https://twitter.com/craigysoofiyan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/soofiyan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="mailto:soofiyan.a@somaiya.edu"><img src="https://www.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/soofiyan-atar-93227a131/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
 
 
 ⭐️ From [Soofiyan](https://github.com/soofiyan)
