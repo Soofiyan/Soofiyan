@@ -1,6 +1,6 @@
 ### Hey 👋, I'm [Soofiyan Atar]() 👨‍💻
 
-<p align="center"><img src="https://github.com/Soofiyan/Soofiyan/blob/master/Images/collage1.png" alt="Hritik-Jaiswal-Linkedin-Banner-2" border="0"></p>
+<p align="center"><img src="https://github.com/Soofiyan/Soofiyan/blob/master/Images/animated-robot-image-0029.gif" alt="Hritik-Jaiswal-Linkedin-Banner-2" border="0"></p>
 
 - 📫 How to reach me:
 [![GitHub Badge](https://img.shields.io/github/followers/soofiyan?label=follow&style=social)](https://github.com/soofiyan)
