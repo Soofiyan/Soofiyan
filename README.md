@@ -1,7 +1,7 @@
-
-
-<p align="right"><img src="https://media.giphy.com/media/ToMjGpOavzW0Kxbmb60/giphy.gif" alt="Soofiyan-banner-gif" border="0" height="350px" width ="350px"></p>
 ### Hey 👋, I'm [Soofiyan Atar]() 👨‍💻
+
+<p align="right"><img src="https://media.giphy.com/media/ToMjGpOavzW0Kxbmb60/giphy.gif" alt="Soofiyan-banner-gif" border="0" height="300px" width ="300px"></p>
+
 
 - 📫 How to reach me:
 [![GitHub Badge](https://img.shields.io/github/followers/soofiyan?label=follow&style=social)](https://github.com/soofiyan)
