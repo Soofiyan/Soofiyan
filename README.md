@@ -40,7 +40,7 @@
 
 ### Reach out to me 👓
 
-| <a href="https://twitter.com/craigysoofiyan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/soofiyan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="soofiyan.a@somaiya.edu"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soofiyan.a@somaiya.edu" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/soofiyan-atar-93227a131/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+| <a href="https://twitter.com/craigysoofiyan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/soofiyan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soofiyan.a@somaiya.edu"><img src="https://assets.mspimages.in/wp-content/uploads/2016/04/Gmail_logo-1.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/soofiyan-atar-93227a131/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 
 ⭐️ From [Soofiyan](https://github.com/soofiyan)
