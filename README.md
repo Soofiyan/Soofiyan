@@ -19,6 +19,13 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://i.pinimg.com/originals/66/98/24/669824e8c0825e5e23434d0b4edb9663.jpg"></code>
 <code><img height="50" src="https://avatars3.githubusercontent.com/u/14095512?s=400&v=4"></code>
+<code><img height="50" src="https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png"></code>
+<code><img height="50" src="https://avatars3.githubusercontent.com/u/14095512?s=400&v=4"></code>
+<code><img height="50" src="https://avatars3.githubusercontent.com/u/14095512?s=400&v=4"></code>
+<code><img height="50" src="https://avatars3.githubusercontent.com/u/14095512?s=400&v=4"></code>
+
+
+
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
