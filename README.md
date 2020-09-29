@@ -13,10 +13,10 @@
 
 <br/>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/ROS.png"></code>
+<code><img height="25" src="https://lh3.googleusercontent.com/proxy/c5uaVUTBW56JBWcFPAnIsiLNuaqNaARJBhLfh1Cgaih-CyHRtl1l9AgOo0j4YK_pETJKNiVMGP4un85sp1ufzUB7yZkX5YdMJSeRTjKb00RaCIA0PQ"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/matlab.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/cpp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/arduino.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/microcontrroller.png"></code>
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
