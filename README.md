@@ -5,7 +5,7 @@
 ### About me :eyes:
 
 - :dart: Robotics Software developer **|** Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
-- :heart: 
+- :heart: Contributing in many open source projects 
 - :writing_hand: 
 - :e-mail: Ask me about anything ; **[soofiyan.a@somaiya.edu](soofiyan.a@somaiya.edu)**
 
