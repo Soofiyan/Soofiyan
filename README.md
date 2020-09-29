@@ -21,8 +21,10 @@
 <code><img height="50" src="https://avatars3.githubusercontent.com/u/14095512?s=400&v=4"></code>
 <code><img height="50" src="https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Pcl_%28PointClouds_library%29_logo_with_text.png"></code>
-<code><img height="50" src="https://lh3.googleusercontent.com/proxy/dezhs67WKs2TKUhm7T7bNG0HQ1QFQ-LI8dpzCQNqoPvWGEqUzIOrS6o5nXvIfXy5e0EUGkbq5ghBVRShcUAqxyxGWCtkfuRH7vi-RaQSdBu-yrhsoC2Cn5vTu2-h1w"></code>
-<code><img height="50" src="https://avatars3.githubusercontent.com/u/14095512?s=400&v=4"></code>
+<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1jnE2zkTrhd0QraTyuXq96Y-W8QiXk-2jTg&usqp=CAU"></code>
+<code><img height="50" src="https://miro.medium.com/max/517/1*myaUwmB7BoXLgz7qRkgm0A.png"></code>
+<code><img height="50" src="https://niryo.com/wp-content/uploads/2019/12/CoppeliaSim.png"></code>
+<code><img height="50" src="https://miro.medium.com/max/517/1*myaUwmB7BoXLgz7qRkgm0A.png"></code>
 
 
 
