@@ -29,11 +29,12 @@
 <code><img height="50" src="https://repository-images.githubusercontent.com/261098554/76220b00-8e28-11ea-84e9-8ad203a872fd"></code>
 
 
-
+<br>
+<br>
 
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
-Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
+## Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
 
 ### Some stats about ME!
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&theme=tokyonight" />
