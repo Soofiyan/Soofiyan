@@ -1,6 +1,6 @@
 ### Hey 👋, I'm [Soofiyan Atar]() 👨‍💻
 
-<p align="center"><img src="https://media.giphy.com/media/hsaf8hXsTAMCw5gov6/giphy.gif" alt="Soofiyan-banner-gif" border="0"></p>
+<p align="center"><img src="https://media.giphy.com/media/ToMjGpOavzW0Kxbmb60/giphy.gif" alt="Soofiyan-banner-gif" border="0"></p>
 
 
 - 📫 How to reach me:
