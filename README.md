@@ -1,10 +1,7 @@
 ### Hey 👋, I'm [Soofiyan Atar]() 👨‍💻
 
-<p align="center"><img src="https://github.com/Soofiyan/Soofiyan/blob/master/Images/animated-robot-image-0029.gif" alt="Soofiyan-banner-gif" border="0"></p>
+<p align="center"><img src="https://media.giphy.com/media/hsaf8hXsTAMCw5gov6/giphy.gif" alt="Soofiyan-banner-gif" border="0"></p>
 
-📊 **This week I spent my time on**
-
-<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 - 📫 How to reach me:
 [![GitHub Badge](https://img.shields.io/github/followers/soofiyan?label=follow&style=social)](https://github.com/soofiyan)
