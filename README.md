@@ -1,6 +1,5 @@
 ### Hey 👋, I'm [Soofiyan Atar]() 👨‍💻
 
-<img src="https://github.com/Soofiyan/Soofiyan/blob/master/Images/collage1.png" height="350px" width ="350px">
 <p align="center"><img src="https://github.com/Soofiyan/Soofiyan/blob/master/Images/collage1.png" alt="Hritik-Jaiswal-Linkedin-Banner-2" border="0"></p>
 
 - 📫 How to reach me:
