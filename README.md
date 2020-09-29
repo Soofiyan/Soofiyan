@@ -12,13 +12,13 @@
 ### Languages and Tools :computer:
 
 <br/>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://lh3.googleusercontent.com/proxy/c5uaVUTBW56JBWcFPAnIsiLNuaqNaARJBhLfh1Cgaih-CyHRtl1l9AgOo0j4YK_pETJKNiVMGP4un85sp1ufzUB7yZkX5YdMJSeRTjKb00RaCIA0PQ"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/matlab.png"></code>
-<code><img height="40" src="https://www.st.com/content/dam/logos/stmicroelectronics-logo.jpg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://e7.pngegg.com/pngimages/468/150/png-clipart-graphics-cards-video-adapters-nvidia-quadro-logo-geforce-nvidia-electronics-text.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/microcontrroller.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://lh3.googleusercontent.com/proxy/c5uaVUTBW56JBWcFPAnIsiLNuaqNaARJBhLfh1Cgaih-CyHRtl1l9AgOo0j4YK_pETJKNiVMGP4un85sp1ufzUB7yZkX5YdMJSeRTjKb00RaCIA0PQ"></code>
+<code><img height="50" src="https://www.mathworks.com/company/newsletters/articles/the-mathworks-logo-is-an-eigenfunction-of-the-wave-equation/_jcr_content/mainParsys/image_2.adapt.480.high.gif/1469941373397.gif"></code>
+<code><img height="50" src="https://www.st.com/content/dam/logos/stmicroelectronics-logo.jpg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
+<code><img height="50" src="https://i.pinimg.com/originals/66/98/24/669824e8c0825e5e23434d0b4edb9663.jpg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/microcontrroller.png"></code>
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
