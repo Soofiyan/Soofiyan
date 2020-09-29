@@ -20,8 +20,8 @@
 <code><img height="50" src="https://i.pinimg.com/originals/66/98/24/669824e8c0825e5e23434d0b4edb9663.jpg"></code>
 <code><img height="50" src="https://avatars3.githubusercontent.com/u/14095512?s=400&v=4"></code>
 <code><img height="50" src="https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png"></code>
-<code><img height="50" src="https://avatars3.githubusercontent.com/u/14095512?s=400&v=4"></code>
-<code><img height="50" src="https://avatars3.githubusercontent.com/u/14095512?s=400&v=4"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Pcl_%28PointClouds_library%29_logo_with_text.png"></code>
+<code><img height="50" src="https://lh3.googleusercontent.com/proxy/dezhs67WKs2TKUhm7T7bNG0HQ1QFQ-LI8dpzCQNqoPvWGEqUzIOrS6o5nXvIfXy5e0EUGkbq5ghBVRShcUAqxyxGWCtkfuRH7vi-RaQSdBu-yrhsoC2Cn5vTu2-h1w"></code>
 <code><img height="50" src="https://avatars3.githubusercontent.com/u/14095512?s=400&v=4"></code>
 
 
