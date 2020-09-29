@@ -26,7 +26,7 @@
 <code><img height="50" src="https://niryo.com/wp-content/uploads/2019/12/CoppeliaSim.png"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSMW0eL_yAqgrJ1zTk3HHWuAnnly2txNWBCA&usqp=CAU"></code>
 <code><img height="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1li-tJQf--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/d4lz71xu99ka09x55m23.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
+<code><img height="50" src="https://repository-images.githubusercontent.com/261098554/76220b00-8e28-11ea-84e9-8ad203a872fd"></code>
 
 
 
