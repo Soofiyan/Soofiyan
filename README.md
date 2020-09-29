@@ -37,6 +37,8 @@ Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **
 
 ### Some stats about Soofiyan
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true)
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&theme=tokyonight" />
+
 
 ⭐️ From [Soofiyan](https://github.com/soofiyan)
 
