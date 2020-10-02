@@ -14,7 +14,7 @@
 
 <br/>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://lh3.googleusercontent.com/proxy/HjBDIhZJD-wlF6JC97sY2q-R7yWnHe8NCOaMKXZioC2fAJbx6Ehq-v2d6SGltgRjpCzzXrmVwXk_YOAF0L4QZ8HRnhldKljDe4ixbO6PgwCvyYfHBQ"></code>
+<code><img height="50" src="https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2018/11/26/ros-logo-300x168.jpg"></code>
 <code><img height="50" src="https://www.mathworks.com/company/newsletters/articles/the-mathworks-logo-is-an-eigenfunction-of-the-wave-equation/_jcr_content/mainParsys/image_2.adapt.480.high.gif/1469941373397.gif"></code>
 <code><img height="50" src="https://www.st.com/content/dam/logos/stmicroelectronics-logo.jpg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
