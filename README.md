@@ -29,7 +29,7 @@
 <code><img height="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1li-tJQf--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/d4lz71xu99ka09x55m23.png"></code>
 <code><img height="50" src="https://repository-images.githubusercontent.com/261098554/76220b00-8e28-11ea-84e9-8ad203a872fd"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"></code>
-<code><img height="50" src="https://moveit.ros.org/assets/logo/moveit_logo-black.png"></code>
+<code><img height="50" width="50" src="https://moveit.ros.org/assets/logo/moveit_logo-black.png"></code>
 
 
 
