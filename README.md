@@ -7,7 +7,7 @@
 - :dart: Robotics Software developer **|** Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
 - :heart: Contributing in many open source projects 
 - :writing_hand: 
-- :e-mail: Ask me about anything ; **[soofiyan.a@somaiya.edu](soofiyan.a@somaiya.edu)**
+- :e-mail: Ask me about anything ; **[soofiyan2910@gmail.com](soofiyan2910@gmail.com)**
 
 
 ### Languages and Tools :computer:
