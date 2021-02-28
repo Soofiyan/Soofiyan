@@ -6,7 +6,7 @@
 
 - :dart: Robotics Software developer **|** Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
 - :heart: Contributing in many open source projects 
-- :100 : Involved in many research projects at IIT Bombay
+- :100: Involved in many research projects at IIT Bombay
 - :e-mail: Ask me about anything ; **[soofiyan2910@gmail.com](soofiyan2910@gmail.com)**
 
 
