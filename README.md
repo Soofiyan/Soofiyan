@@ -44,7 +44,7 @@
 
 ### Reach out to me 👓
 
-<a href="https://twitter.com/craigysoofiyan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/soofiyan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="mailto:soofiyan2910@gmail.com"><img src="https://www.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/soofiyan-atar-93227a131/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
+<a href="https://twitter.com/craigysoofiyan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/soofiyan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="mailto:soofiyan2910@gmail.com"><img src="https://cdn3.iconfinder.com/data/icons/contact-us-set-3/256/66-512.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/soofiyan-atar-93227a131/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
 
 
 ⭐️ From [Soofiyan](https://github.com/soofiyan)
