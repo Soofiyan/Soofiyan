@@ -40,7 +40,7 @@
 ## Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
 
 ### Some stats about ME!
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&theme=tokyonight" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsahinur&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devSahinur" /></p>
 
 ### Reach out to me 👓
 
