@@ -40,8 +40,8 @@
 ## Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
 
 ### Some stats about ME!
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devSahinur" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devSahinur" /></p> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&theme=gotham" alt="soofiyan" />
 ### Reach out to me 👓
 
 <a href="https://twitter.com/craigysoofiyan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/soofiyan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="mailto:soofiyan2910@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/soofiyan-atar-93227a131/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
