@@ -41,7 +41,7 @@
 
 <!-- ### Some stats about ME!
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devSahinur" /></p> -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&theme=gotham" alt="soofiyan" /> --> -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soofiyan&show_icons=true&theme=gotham" alt="soofiyan" /> -->
   
 ### Reach out to me 👓
 
