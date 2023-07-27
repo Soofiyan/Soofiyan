@@ -47,7 +47,7 @@
 
 <a href="https://twitter.com/craigysoofiyan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/soofiyan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="mailto:soofiyan2910@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/soofiyan-atar-93227a131/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soofiyan&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soofiyan&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true) -->
 
 
 ⭐️ From [Soofiyan](https://github.com/soofiyan)
