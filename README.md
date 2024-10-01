@@ -4,9 +4,9 @@
 
 ### About me :eyes:
 
-- :dart: Robotics Software developer **|** Computer Vision **|** Swarm Robotics **|** SLAM **|** Artificial Intelligence **|** Path Planning  **|** Control Systems **|** Aerial Robotics
-- :heart: Current research area: Scenario based grasping point detection
-- :100: UW+Amazon HUB
+- :dart: Surgical Robotics **|** Manipulation **|** Grasping
+- :heart: Current research area: Dextrous manipulation
+- :100: ARClab | UC San Diego
 - :e-mail: Ask me about anything ; **[soofiyan2910@gmail.com](soofiyan2910@gmail.com)**
 
 
